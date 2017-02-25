@@ -11,6 +11,8 @@
     <sprite>sprites\Sprite</sprite>
     <sprite>sprites\sprite2</sprite>
     <sprite>sprites\sprite3</sprite>
+    <sprite>sprites\sprite4</sprite>
+    <sprite>sprites\sprite5</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -20,6 +22,7 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_menu.gml</script>
+    <script>scripts\script1.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\Arial</font>
@@ -28,10 +31,14 @@
     <object>objects\Player</object>
     <object>objects\object1</object>
     <object>objects\Menu</object>
+    <object>objects\META</object>
+    <object>objects\Przycisk1</object>
+    <object>objects\Przycisk2</object>
+    <object>objects\Przycisk3</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
-    <room>rooms\room0</room>
+    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
