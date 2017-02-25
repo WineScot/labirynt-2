@@ -29,16 +29,18 @@
   </fonts>
   <objects name="objects">
     <object>objects\Player</object>
-    <object>objects\object1</object>
+    <object>objects\Object1</object>
     <object>objects\Menu</object>
     <object>objects\META</object>
     <object>objects\Przycisk1</object>
     <object>objects\Przycisk2</object>
     <object>objects\Przycisk3</object>
+    <object>objects\fake_wall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
-    <room>rooms\room2</room>
+    <room>rooms\room2_a</room>
+    <room>rooms\room2_m</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
