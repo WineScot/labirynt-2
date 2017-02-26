@@ -4,13 +4,15 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound">
-    <sound>sound\sound0</sound>
-  </sounds>
+  <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\Sprite</sprite>
     <sprite>sprites\sprite2</sprite>
     <sprite>sprites\sprite3</sprite>
+    <sprite>sprites\ludzik</sprite>
+    <sprite>sprites\burek</sprite>
+    <sprite>sprites\sprite4</sprite>
+    <sprite>sprites\sprite5</sprite>
     <sprite>sprites\sprite4_M</sprite>
     <sprite>sprites\sprite5_M</sprite>
   </sprites>
@@ -22,25 +24,32 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_menu.gml</script>
+    <script>scripts\script1.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\Arial</font>
   </fonts>
   <objects name="objects">
     <object>objects\Player</object>
-    <object>objects\object1</object>
+    <object>objects\Object1</object>
     <object>objects\Menu</object>
-    <object>objects\META_M</object>
+    <object>objects\ludziks_d</object>
+    <object>objects\burek_d</object>
+    <object>objects\META</object>
     <object>objects\Przycisk1_M</object>
     <object>objects\Przycisk2_M</object>
     <object>objects\Przycisk3_M</object>
     <object>objects\Przycisk4_M</object>
     <object>objects\Przycisk5_M</object>
     <object>objects\Przycisk6_M</object>
+    <object>objects\fake_wall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
-    <room>rooms\room2_M</room>
+    <room>rooms\levelx_d</room>
+    <room>rooms\room2_m</room>
+    <room>rooms\room2_a</room>
+    <room>rooms\room0</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

@@ -8,7 +8,59 @@
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
-    <event eventtype="4" ename="object1">
+    <event eventtype="4" ename="META">
+      <action>
+        <libid>1</libid>
+        <id>222</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_next_room</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
+    </event>
+    <event eventtype="4" ename="burek_d">
+      <action>
+        <libid>1</libid>
+        <id>321</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_message</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>2</kind>
+            <string>Przegrales!</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>331</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_restart_game</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
+    </event>
+    <event eventtype="4" ename="Object1">
       <action>
         <libid>1</libid>
         <id>115</id>
@@ -51,7 +103,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>y+=10
+            <string>y+=6
 </string>
           </argument>
         </arguments>
@@ -74,7 +126,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>x+=10
+            <string>x+=6
 </string>
           </argument>
         </arguments>
@@ -97,7 +149,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>y-=10
+            <string>y-=6
 </string>
           </argument>
         </arguments>
@@ -120,7 +172,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>x-=10
+            <string>x-=6
 </string>
           </argument>
         </arguments>
@@ -143,7 +195,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>object1</object>
+            <object>Object1</object>
           </argument>
           <argument>
             <kind>0</kind>
