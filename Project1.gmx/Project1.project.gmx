@@ -11,6 +11,8 @@
     <sprite>sprites\sprite3</sprite>
     <sprite>sprites\ludzik</sprite>
     <sprite>sprites\burek</sprite>
+    <sprite>sprites\sprite4</sprite>
+    <sprite>sprites\sprite5</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -20,21 +22,29 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_menu.gml</script>
+    <script>scripts\script1.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\Arial</font>
   </fonts>
   <objects name="objects">
     <object>objects\Player</object>
-    <object>objects\object1</object>
+    <object>objects\Object1</object>
     <object>objects\Menu</object>
     <object>objects\ludziks_d</object>
     <object>objects\burek_d</object>
+    <object>objects\META</object>
+    <object>objects\Przycisk1</object>
+    <object>objects\Przycisk2</object>
+    <object>objects\Przycisk3</object>
+    <object>objects\fake_wall</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room1</room>
+    <room>rooms\room2_a</room>
     <room>rooms\levelx_d</room>
     <room>rooms\room0</room>
-    <room>rooms\room1</room>
+    <room>rooms\room2_m</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

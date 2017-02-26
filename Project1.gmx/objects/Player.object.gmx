@@ -24,7 +24,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="object1">
+    <event eventtype="4" ename="Object1">
       <action>
         <libid>1</libid>
         <id>115</id>
@@ -67,7 +67,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>y+=10
+            <string>y+=6
 </string>
           </argument>
         </arguments>
@@ -90,7 +90,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>x+=10
+            <string>x+=6
 </string>
           </argument>
         </arguments>
@@ -113,7 +113,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>y-=10
+            <string>y-=6
 </string>
           </argument>
         </arguments>
@@ -136,7 +136,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>x-=10
+            <string>x-=6
 </string>
           </argument>
         </arguments>
@@ -159,7 +159,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>object1</object>
+            <object>Object1</object>
           </argument>
           <argument>
             <kind>0</kind>
