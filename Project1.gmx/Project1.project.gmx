@@ -4,13 +4,13 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound">
-    <sound>sound\sound0</sound>
-  </sounds>
+  <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\Sprite</sprite>
     <sprite>sprites\sprite2</sprite>
     <sprite>sprites\sprite3</sprite>
+    <sprite>sprites\ludzik</sprite>
+    <sprite>sprites\burek</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -28,10 +28,13 @@
     <object>objects\Player</object>
     <object>objects\object1</object>
     <object>objects\Menu</object>
+    <object>objects\ludziks_d</object>
+    <object>objects\burek_d</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room1</room>
+    <room>rooms\levelx_d</room>
     <room>rooms\room0</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
