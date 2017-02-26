@@ -43,8 +43,8 @@
     <room>rooms\room1</room>
     <room>rooms\room2_a</room>
     <room>rooms\levelx_d</room>
-    <room>rooms\room0</room>
     <room>rooms\room2_m</room>
+    <room>rooms\room0</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
