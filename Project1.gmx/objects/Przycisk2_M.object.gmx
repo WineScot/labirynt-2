@@ -27,9 +27,9 @@
             <kind>1</kind>
             <string>if(keyboard_check_pressed(vk_enter))
 {
-    if !position_meeting(736, 448, all) instance_create(736, 448, object1);
+    if !position_meeting(736, 448, all) instance_create(736, 448, 1);
     else position_destroy(736,448);
-    if !position_meeting(896, 352, all) instance_create(896, 352, object1);
+    if !position_meeting(896, 352, all) instance_create(896, 352, 1);
     else position_destroy(896, 352);
     il=0;
 }

@@ -25,12 +25,13 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>menu[0]="Start";
-menu[1]="Nowa Gra";
-menu[2]="Wczytaj";
-menu[3]="Wyjscie";
+            <string>menu[0]="LABIRYNT";
+menu[1]="Start";
+menu[2]="Nowa Gra";
+menu[3]="Wczytaj";
+menu[4]="Wyjscie";
 space=64;
-mpos=0;
+mpos=1;
 
 </string>
           </argument>
@@ -60,13 +61,13 @@ move+=max(keyboard_check_pressed(vk_down),keyboard_check_pressed(ord("S")),0);
 if(move!=0)
 {
     mpos+=move;
-    if(mpos&lt;0)
+    if(mpos&lt;1)
     {
         mpos=array_length_1d(menu)-1;       
     }
     if(mpos&gt;array_length_1d(menu)-1)
     {
-        mpos=0;
+        mpos=1;
     }
 }
 var push;
