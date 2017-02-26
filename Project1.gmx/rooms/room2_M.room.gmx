@@ -98,8 +98,6 @@ il=0;</code>
     <instance objName="Sciana_Right_Object_M" x="928" y="256" name="inst_BABE327C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="sciana_gora_Object_M" x="896" y="224" name="inst_16EB7BE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Sciana_Left_Object_M" x="864" y="256" name="inst_9F9105EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Sciana_Left_Object_M" x="864" y="320" name="inst_CF808273" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Sciana_Left_Object_M" x="864" y="352" name="inst_1497FA18" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Sciana_Left_Object_M" x="768" y="384" name="inst_A479D09E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="sciana_gora_Object_M" x="736" y="416" name="inst_939E41A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="sciana_gora_Object_M" x="704" y="416" name="inst_6743363B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -115,7 +113,6 @@ il=0;</code>
     <instance objName="Sciana_Rog_4_Object_M" x="928" y="608" name="inst_CC2B3BFA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Sciana_Rog_2_Object_M" x="864" y="608" name="inst_D7CE0271" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Sciana_Rog_4_Object_M" x="928" y="352" name="inst_190204B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Sciana_Rog_2_Object_M" x="864" y="288" name="inst_8F153DED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Sciana_Rog_1_Object_M" x="768" y="352" name="inst_9294CB97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Sciana_Rog_2_Object_M" x="768" y="416" name="inst_88DF57C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Sciana_Rog_1_Object_M" x="768" y="480" name="inst_14A64D13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -126,8 +123,114 @@ il=0;</code>
     <instance objName="Object1" x="896" y="320" name="inst_9556FFE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="896" y="288" name="inst_39959CE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="672" y="320" name="inst_DF5DA420" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="960" y="576" name="inst_96BC7E7C" locked="0" code="" scaleX="2" scaleY="6" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="992" y="544" name="inst_D70C166B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="992" y="224" name="inst_581ED6FE" locked="0" code="" scaleX="-1" scaleY="-4" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="992" y="192" name="inst_D965AC6A" locked="0" code="" scaleX="1" scaleY="-6" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="992" y="192" name="inst_B84997C3" locked="0" code="" scaleX="-26" scaleY="-6" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="160" y="192" name="inst_0AEE34DC" locked="0" code="" scaleX="14" scaleY="13" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="160" y="608" name="inst_C5EB2533" locked="0" code="" scaleX="21" scaleY="5" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="832" y="736" name="inst_B23058D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="832" y="608" name="inst_6A461769" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="832" y="576" name="inst_BE8D10C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="800" y="576" name="inst_2E3F45D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="832" y="544" name="inst_01E80DB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="800" y="544" name="inst_18F000E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="768" y="576" name="inst_BCC54E0A" locked="0" code="" scaleX="-5" scaleY="-2" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="768" y="512" name="inst_3569A0BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="768" y="544" name="inst_54A3854F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="768" y="576" name="inst_0F126C7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="736" y="576" name="inst_2D568984" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="704" y="576" name="inst_A1C001EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="672" y="576" name="inst_A802D726" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="640" y="576" name="inst_9FC66988" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="608" y="576" name="inst_1E2FDB0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="640" y="480" name="inst_FCF825F5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="608" y="480" name="inst_81D190A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="608" y="448" name="inst_E9D94C10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="608" y="416" name="inst_83D1491D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="640" y="416" name="inst_92BACF22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="608" y="384" name="inst_438D9171" locked="0" code="" scaleX="5" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="608" y="192" name="inst_E2114E6C" locked="0" code="" scaleX="8" scaleY="3" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="864" y="224" name="inst_9C096D20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="864" y="192" name="inst_C2FAC789" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="896" y="192" name="inst_27D0FA4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="928" y="192" name="inst_5A8FFB14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="928" y="224" name="inst_66D246DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="992" y="192" name="inst_3BE9F088" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="960" y="224" name="inst_311D339D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="992" y="224" name="inst_A2BBC2A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="992" y="256" name="inst_614AF723" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="960" y="256" name="inst_D5D00A2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="960" y="288" name="inst_6705CE04" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="992" y="288" name="inst_675B38BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="992" y="320" name="inst_916C89F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="960" y="320" name="inst_696D692F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przestrzen_M" x="992" y="352" name="inst_73FEFC74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Sciana_Left_Object_M" x="864" y="288" name="inst_43BCD727" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Sciana_Boki_Pion_Object_M" x="864" y="320" name="inst_D4569D22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Sciana_Trojlisc_1_Object_M" x="864" y="352" name="inst_6F64878E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
-  <tiles/>
+  <tiles>
+    <tile bgName="Podloga_1_M" x="640" y="352" w="16" h="16" xo="0" yo="0" id="10000040" name="inst_124C9CC7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="672" y="320" w="32" h="32" xo="0" yo="0" id="10000043" name="inst_061692A7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="704" y="320" w="32" h="32" xo="0" yo="0" id="10000044" name="inst_6A0CE3F5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="736" y="320" w="32" h="32" xo="0" yo="0" id="10000045" name="inst_C6FED25C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="768" y="320" w="32" h="32" xo="0" yo="0" id="10000046" name="inst_7DC0E4E7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="800" y="320" w="32" h="32" xo="0" yo="0" id="10000047" name="inst_D6F1E1E0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="800" y="352" w="32" h="32" xo="0" yo="0" id="10000048" name="inst_BA9563A7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="832" y="320" w="32" h="32" xo="0" yo="0" id="10000049" name="inst_21004608" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="832" y="352" w="32" h="32" xo="0" yo="0" id="10000050" name="inst_0069B3AD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="800" y="384" w="32" h="32" xo="0" yo="0" id="10000051" name="inst_C6FFC898" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="800" y="416" w="32" h="32" xo="0" yo="0" id="10000052" name="inst_7EE2C93E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="832" y="384" w="32" h="32" xo="0" yo="0" id="10000053" name="inst_E4CA4155" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="832" y="416" w="32" h="32" xo="0" yo="0" id="10000054" name="inst_FA00633E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="800" y="448" w="32" h="32" xo="0" yo="0" id="10000055" name="inst_DA6ACC3F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="832" y="448" w="32" h="32" xo="0" yo="0" id="10000056" name="inst_EF9AC583" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="832" y="480" w="32" h="32" xo="0" yo="0" id="10000057" name="inst_82A6251A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="800" y="480" w="32" h="32" xo="0" yo="0" id="10000058" name="inst_02E2E4F0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="768" y="448" w="32" h="32" xo="0" yo="0" id="10000059" name="inst_E211595E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="736" y="448" w="32" h="32" xo="0" yo="0" id="10000060" name="inst_1CD5CCBD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="704" y="448" w="32" h="32" xo="0" yo="0" id="10000061" name="inst_3C157348" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="672" y="448" w="32" h="32" xo="0" yo="0" id="10000062" name="inst_4EEE7167" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="864" y="384" w="32" h="32" xo="0" yo="0" id="10000063" name="inst_F16CE448" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="864" y="416" w="32" h="32" xo="0" yo="0" id="10000064" name="inst_6F6591F0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="864" y="448" w="32" h="32" xo="0" yo="0" id="10000065" name="inst_1C01E098" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="864" y="480" w="32" h="32" xo="0" yo="0" id="10000066" name="inst_C3F83346" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="384" w="32" h="32" xo="0" yo="0" id="10000067" name="inst_517ABB8D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="416" w="32" h="32" xo="0" yo="0" id="10000068" name="inst_A92F27D4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="448" w="32" h="32" xo="0" yo="0" id="10000069" name="inst_06FFD902" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="480" w="32" h="32" xo="0" yo="0" id="10000070" name="inst_86FF5E1E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="928" y="416" w="32" h="32" xo="0" yo="0" id="10000071" name="inst_05AF9E51" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="960" y="384" w="32" h="32" xo="0" yo="0" id="10000072" name="inst_A564FA76" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="928" y="384" w="32" h="32" xo="0" yo="0" id="10000073" name="inst_9C2F77D1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="352" w="32" h="32" xo="0" yo="0" id="10000074" name="inst_67CB1680" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="320" w="32" h="32" xo="0" yo="0" id="10000075" name="inst_BB96DA08" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="288" w="32" h="32" xo="0" yo="0" id="10000076" name="inst_AF090AE3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="256" w="32" h="32" xo="0" yo="0" id="10000077" name="inst_A15FDD29" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="608" y="320" w="32" h="32" xo="0" yo="0" id="10000078" name="inst_91887ADA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="928" y="448" w="32" h="32" xo="0" yo="0" id="10000079" name="inst_6C11BA4D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="928" y="480" w="32" h="32" xo="0" yo="0" id="10000080" name="inst_2F0DBD11" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="928" y="512" w="32" h="32" xo="0" yo="0" id="10000081" name="inst_2D49DF5D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="960" y="512" w="32" h="32" xo="0" yo="0" id="10000082" name="inst_86F139D9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="960" y="480" w="32" h="32" xo="0" yo="0" id="10000083" name="inst_68E62E1C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="960" y="448" w="32" h="32" xo="0" yo="0" id="10000084" name="inst_40F98B54" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="960" y="416" w="32" h="32" xo="0" yo="0" id="10000085" name="inst_E4B63B13" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="512" w="32" h="32" xo="0" yo="0" id="10000086" name="inst_0030FFBE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="544" w="32" h="32" xo="0" yo="0" id="10000087" name="inst_CA82E42B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="576" w="32" h="32" xo="0" yo="0" id="10000088" name="inst_94CF6602" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="608" w="32" h="32" xo="0" yo="0" id="10000089" name="inst_4C2475B8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="928" y="640" w="32" h="32" xo="0" yo="0" id="10000090" name="inst_E5C97940" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="640" w="32" h="32" xo="0" yo="0" id="10000091" name="inst_1BF69E92" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="864" y="640" w="32" h="32" xo="0" yo="0" id="10000092" name="inst_07186DE1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="864" y="672" w="32" h="32" xo="0" yo="0" id="10000093" name="inst_A29F0661" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="672" w="32" h="32" xo="0" yo="0" id="10000094" name="inst_6F6D1CE5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="928" y="672" w="32" h="32" xo="0" yo="0" id="10000095" name="inst_EC8D7D7E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="928" y="704" w="32" h="32" xo="0" yo="0" id="10000096" name="inst_5D14BB77" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="896" y="704" w="32" h="32" xo="0" yo="0" id="10000097" name="inst_D05A3AD7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="864" y="704" w="32" h="32" xo="0" yo="0" id="10000098" name="inst_1284047D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Podloga_1_M" x="640" y="320" w="32" h="32" xo="0" yo="0" id="10000100" name="inst_8DC1A454" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+  </tiles>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
   <PhysicsWorldLeft>0</PhysicsWorldLeft>
