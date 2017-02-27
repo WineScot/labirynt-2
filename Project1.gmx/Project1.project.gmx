@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\Muzyka_Poziom5_M</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\Sprite</sprite>
     <sprite>sprites\sprite2</sprite>
@@ -38,8 +40,9 @@
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
+    <script>scripts\scr_SaveGame.gml</script>
+    <script>scripts\scr_LoadGame.gml</script>
     <script>scripts\scr_menu.gml</script>
-    <script>scripts\script1.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\Arial</font>
@@ -51,41 +54,47 @@
     <object>objects\ludziks_d</object>
     <object>objects\burek_d</object>
     <object>objects\META</object>
-    <object>objects\Przycisk1_M</object>
-    <object>objects\Przycisk2_M</object>
-    <object>objects\Przycisk3_M</object>
-    <object>objects\Przycisk4_M</object>
-    <object>objects\Przycisk5_M</object>
-    <object>objects\Przycisk6_M</object>
     <object>objects\fake_wall</object>
-    <object>objects\sciana_gora_Object_M</object>
-    <object>objects\Sciana_Dol_Object_M</object>
-    <object>objects\Sciana_Left_Object_M</object>
-    <object>objects\Sciana_Right_Object_M</object>
-    <object>objects\Sciana_Boki_Pion_Object_M</object>
-    <object>objects\Sciana_Boki_Poiziom_Object_M</object>
-    <object>objects\Sciana_Rog_1_Object_M</object>
-    <object>objects\Sciana_Rog_2_Object_M</object>
-    <object>objects\Sciana_Rog_3_Object_M</object>
-    <object>objects\Sciana_Rog_4_Object_M</object>
     <object>objects\Przestrzen_M</object>
-    <object>objects\Sciana_Trojlisc_1_Object_M</object>
-    <object>objects\Ball_Pion_M</object>
-    <object>objects\Fake_Ball_M</object>
-    <object>objects\Ball_Poziom_M</object>
-    <object>objects\Ball_Cykl_M</object>
-    <object>objects\Ball_45Stopni_M</object>
-    <object>objects\Ball_45Stopni_Drugie_M</object>
-    <object>objects\Ball_45Stopni_Trzecie_M</object>
     <object>objects\Fake_Meta_M</object>
     <object>objects\Checkpoint_Object_M</object>
+    <objects name="Ściany">
+      <object>objects\Sciana_Dol_Object_M</object>
+      <object>objects\sciana_gora_Object_M</object>
+      <object>objects\Sciana_Left_Object_M</object>
+      <object>objects\Sciana_Right_Object_M</object>
+      <object>objects\Sciana_Boki_Pion_Object_M</object>
+      <object>objects\Sciana_Boki_Poiziom_Object_M</object>
+      <object>objects\Sciana_Rog_4_Object_M</object>
+      <object>objects\Sciana_Rog_1_Object_M</object>
+      <object>objects\Sciana_Rog_3_Object_M</object>
+      <object>objects\Sciana_Trojlisc_1_Object_M</object>
+      <object>objects\Sciana_Rog_2_Object_M</object>
+    </objects>
+    <objects name="Kulki">
+      <object>objects\Ball_Pion_M</object>
+      <object>objects\Ball_Poziom_M</object>
+      <object>objects\Ball_Cykl_M</object>
+      <object>objects\Ball_45Stopni_Drugie_M</object>
+      <object>objects\Ball_45Stopni_M</object>
+      <object>objects\Fake_Ball_M</object>
+      <object>objects\Ball_45Stopni_Trzecie_M</object>
+    </objects>
+    <objects name="Przyciski">
+      <object>objects\Przycisk1_M</object>
+      <object>objects\Przycisk2_M</object>
+      <object>objects\Przycisk3_M</object>
+      <object>objects\Przycisk4_M</object>
+      <object>objects\Przycisk5_M</object>
+      <object>objects\Przycisk6_M</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
-    <room>rooms\room5_M</room>
     <room>rooms\room2_m</room>
-    <room>rooms\levelx_d</room>
     <room>rooms\room2_a</room>
+    <room>rooms\room5_M</room>
+    <room>rooms\levelx_d</room>
     <room>rooms\room0</room>
   </rooms>
   <help>

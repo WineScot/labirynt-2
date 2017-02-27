@@ -26,10 +26,9 @@
           <argument>
             <kind>1</kind>
             <string>menu[0]="LABIRYNT";
-menu[1]="Start";
-menu[2]="Nowa Gra";
-menu[3]="Wczytaj";
-menu[4]="Wyjscie";
+menu[1]="Nowa Gra";
+menu[2]="Wczytaj";
+menu[3]="Wyjscie";
 space=64;
 mpos=1;
 

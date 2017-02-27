@@ -10,8 +10,10 @@
   <persistent>0</persistent>
   <colour>8454143</colour>
   <showcolour>-1</showcolour>
-  <code>globalvar il;
-il=0;</code>
+  <code>audio_stop_all();
+globalvar il;
+il=0;
+scr_SaveGame();</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>

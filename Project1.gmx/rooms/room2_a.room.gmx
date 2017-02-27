@@ -10,7 +10,12 @@
   <persistent>0</persistent>
   <colour>8454143</colour>
   <showcolour>-1</showcolour>
-  <code></code>
+  <code>if keyboard_check_pressed(ord("S"))
+{
+   global.Save = true;
+   game_save("Save.dat");
+}
+scr_SaveGame();</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
