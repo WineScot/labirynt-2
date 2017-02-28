@@ -32,6 +32,7 @@
     <sprite>sprites\Sciana_Trojlisc_M</sprite>
     <sprite>sprites\Ball_M</sprite>
     <sprite>sprites\Checkpoint_M</sprite>
+    <sprite>sprites\heroa_W</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
