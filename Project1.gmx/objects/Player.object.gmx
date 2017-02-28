@@ -32,7 +32,7 @@ y=checkpointy;
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="Ball_45Stopni_Drugie_M">
+    <event eventtype="4" ename="Ball_45Stopni_M">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -56,7 +56,7 @@ y=checkpointy;
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="Ball_45Stopni_M">
+    <event eventtype="4" ename="Ball_45Stopni_Drugie_M">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -152,7 +152,7 @@ y=checkpointy;
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="Sciana_Trojlisc_1_Object_M">
+    <event eventtype="4" ename="Sciana_Rog_2_Object_M">
       <action>
         <libid>1</libid>
         <id>115</id>
@@ -178,7 +178,7 @@ y=checkpointy;
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="Sciana_Rog_4_Object_M">
+    <event eventtype="4" ename="Sciana_Trojlisc_1_Object_M">
       <action>
         <libid>1</libid>
         <id>115</id>
@@ -230,7 +230,7 @@ y=checkpointy;
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="Sciana_Rog_2_Object_M">
+    <event eventtype="4" ename="Sciana_Rog_1_Object_M">
       <action>
         <libid>1</libid>
         <id>115</id>
@@ -256,7 +256,7 @@ y=checkpointy;
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="Sciana_Rog_1_Object_M">
+    <event eventtype="4" ename="Sciana_Rog_4_Object_M">
       <action>
         <libid>1</libid>
         <id>115</id>
@@ -386,7 +386,7 @@ y=checkpointy;
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="Sciana_Dol_Object_M">
+    <event eventtype="4" ename="sciana_gora_Object_M">
       <action>
         <libid>1</libid>
         <id>115</id>
@@ -412,7 +412,7 @@ y=checkpointy;
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="sciana_gora_Object_M">
+    <event eventtype="4" ename="Sciana_Dol_Object_M">
       <action>
         <libid>1</libid>
         <id>115</id>

@@ -90,11 +90,11 @@
     </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room1</room>
-    <room>rooms\room2_m</room>
-    <room>rooms\room2_a</room>
-    <room>rooms\room5_M</room>
+    <room>rooms\Menu_Room</room>
     <room>rooms\levelx_d</room>
+    <room>rooms\room2_m</room>
+    <room>rooms\room5_M</room>
+    <room>rooms\room2_a</room>
     <room>rooms\room0</room>
   </rooms>
   <help>

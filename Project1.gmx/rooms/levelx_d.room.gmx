@@ -226,7 +226,6 @@
     <instance objName="Object1" x="128" y="320" name="inst_E990BC1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="64" y="384" name="inst_03AF1690" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="64" y="352" name="inst_FCA70E1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Object1" x="64" y="320" name="inst_7310D456" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="64" y="288" name="inst_6047EDFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="128" y="256" name="inst_5D3C85D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="128" y="224" name="inst_7477D6AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -474,6 +473,7 @@
     <instance objName="burek_d" x="32" y="384" name="inst_D89E82B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Player" x="32" y="160" name="inst_A1E0F575" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="META" x="992" y="320" name="inst_1CC0BE83" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Object1" x="64" y="320" name="inst_F0608BDD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

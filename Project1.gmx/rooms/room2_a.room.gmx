@@ -15,7 +15,8 @@
    global.Save = true;
    game_save("Save.dat");
 }
-scr_SaveGame();</code>
+scr_SaveGame();
+audio_stop_all();</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
