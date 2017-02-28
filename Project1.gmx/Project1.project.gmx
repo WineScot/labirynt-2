@@ -38,6 +38,7 @@
     <background>background\background1</background>
     <background>background\Menu_Back</background>
     <background>background\Podloga_1_M</background>
+    <background>background\menu_W</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
