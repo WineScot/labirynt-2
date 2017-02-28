@@ -40,6 +40,7 @@
     <background>background\Menu_Back</background>
     <background>background\Podloga_1_M</background>
     <background>background\menu_W</background>
+    <background>background\Credits_Img_M</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -99,7 +100,7 @@
     <room>rooms\room2_m</room>
     <room>rooms\room5_M</room>
     <room>rooms\room2_a</room>
-    <room>rooms\room0</room>
+    <room>rooms\Credits_Room_M</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

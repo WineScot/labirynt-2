@@ -245,7 +245,6 @@ scr_SaveGame();</code>
     <instance objName="Object1" x="480" y="416" name="inst_97BEF1C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="448" y="416" name="inst_EC2C6B6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="384" y="416" name="inst_087C14D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Object1" x="384" y="416" name="inst_F0E1888D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="352" y="416" name="inst_B35B6651" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="416" y="416" name="inst_D4AC2CFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object1" x="320" y="416" name="inst_135C9D74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
