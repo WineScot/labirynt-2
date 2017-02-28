@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\Muzyka_Poziom5_M</sound>
+    <sound>sound\menueeeeeeee</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\Sprite</sprite>
