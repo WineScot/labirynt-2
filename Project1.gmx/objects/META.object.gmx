@@ -25,18 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if(room == 4)
-{
-    if(a == 0)
-    {
-       show_message_async("Wygrałeś!");
-       a++;
-    }
-}
-else
-{
-    room_goto_next();
-}
+            <string>room_goto_next();
+
 </string>
           </argument>
         </arguments>
