@@ -11,8 +11,7 @@
   <colour>8454143</colour>
   <showcolour>-1</showcolour>
   <code>audio_stop_all();
-globalvar il;
-il=0;
+globalvar czy1, czy2;
 scr_SaveGame();</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
@@ -60,8 +59,6 @@ scr_SaveGame();</code>
     <instance objName="Przycisk1_M" x="960" y="384" name="inst_CBA04A5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Przycisk4_M" x="800" y="480" name="inst_8D2CF467" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Przycisk5_M" x="864" y="480" name="inst_9EE8F569" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Przycisk6_M" x="672" y="448" name="inst_44F4A233" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Przycisk6_M" x="896" y="256" name="inst_29B90E3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="META" x="608" y="320" name="inst_CBF36C22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="sciana_gora_Object_M" x="832" y="288" name="inst_BF1D692A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="sciana_gora_Object_M" x="800" y="288" name="inst_F04283DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -172,6 +169,8 @@ scr_SaveGame();</code>
     <instance objName="Sciana_Left_Object_M" x="864" y="288" name="inst_43BCD727" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Sciana_Boki_Pion_Object_M" x="864" y="320" name="inst_D4569D22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Sciana_Trojlisc_1_Object_M" x="864" y="352" name="inst_6F64878E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przycisk6_M" x="672" y="448" name="inst_9C0C0778" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Przycisk7_M" x="896" y="256" name="inst_2DCB334F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="Podloga_1_M" x="640" y="352" w="16" h="16" xo="0" yo="0" id="10000040" name="inst_124C9CC7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

@@ -33,7 +33,8 @@
     else position_destroy(736,448);
     if !position_meeting(768, 448, all) instance_create(768, 448, Object1);
     else position_destroy(768, 448);
-    il=0;
+    czy1=0;
+    czy2=0;
 }
 </string>
           </argument>

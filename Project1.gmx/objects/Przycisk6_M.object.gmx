@@ -27,8 +27,8 @@
             <kind>1</kind>
             <string>if(keyboard_check_pressed(vk_enter))
 {
-    il++;
-    if(il==2) position_destroy(672,320);
+    czy2=1;
+    if(czy1==1 &amp;&amp; czy2==1) position_destroy(672,320);
 }
 </string>
           </argument>

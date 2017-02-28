@@ -31,7 +31,8 @@
     else position_destroy(704,448);
     if !position_meeting(896, 288, all) instance_create(896, 288, 1);
     else position_destroy(896,288);
-    il=0;
+    czy1=0;
+    czy2=0;
 }
 </string>
           </argument>
