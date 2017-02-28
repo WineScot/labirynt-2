@@ -27,6 +27,11 @@
             <kind>1</kind>
             <string>checkpointx=x;
 checkpointy=y;
+if(room == 4)
+{
+    room_goto(5);
+}
+
 </string>
           </argument>
         </arguments>

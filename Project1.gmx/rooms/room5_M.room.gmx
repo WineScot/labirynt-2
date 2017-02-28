@@ -17,6 +17,7 @@ il=0;
 checkpointx=32;
 checkpointy=32;
 audio_play_sound(Muzyka_Poziom5_M,1,1);
+audio_stop_sound(menueeeeeeee);
 scr_SaveGame();</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
